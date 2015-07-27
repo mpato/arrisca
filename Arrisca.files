@@ -1,0 +1,6 @@
+core.h
+drawing.cpp
+utils.cpp
+utils.h
+window-default.c
+core.cpp
